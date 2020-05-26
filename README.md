@@ -1,0 +1,2 @@
+# Homework-02-Responsiveness-Portfolio
+The goal of this assignment was to create a portfolio that would allow us to practice working in html and CSS using Bootstrap, as well as configuring a responsive layout so that it would be accessible on different sized screens and devices.

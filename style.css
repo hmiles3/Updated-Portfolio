@@ -1,0 +1,60 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+}
+
+p {
+    font-size: 25px;
+}
+
+a{
+    font-size: 25px;
+}
+
+.nav-link {
+    color: white;
+}
+
+/* section {
+    float: left;
+    padding-left: 10%;
+    margin-bottom: 20%;
+} */
+
+section img {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+}
+
+div.container {
+    background-color: whitesmoke;
+    margin-bottom: 5%;
+    padding-bottom: 5px;
+}
+
+div.container h1 {
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+}
+
+section p {
+    margin-bottom: 15px;
+}
+
+.col-lg-6 {
+    padding-left: 10%;
+}
+
+.col-lg-6 h2 {
+    text-align: center;
+    position: relative;
+    background-color: turquoise;
+    width: 250px;
+    margin-left: 11px;
+    bottom: 75px;
+}
